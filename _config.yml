@@ -79,7 +79,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Lead Software Developer 
         caption: August 2022 - Present
-        quote: > Managed the Ysql Connection Manager Project
+        quote: > 
+            Managed the Ysql Connection Manager Project
         description: | 
           ● Managed the YSQL Connection Manager project to extend the number of database connections per node by 300 times.
               ○ Guided my teammates and removed the SQL limitations of the Connection Pooler.
