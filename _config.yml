@@ -87,30 +87,32 @@ content:
               ○ Created sysbench workloads to test the maximum number of connections possible to a database.
           ● Increased the performance of PgBouncer by up to 20% by implementing support for Protocol-level Prepared Statement. 
           Tech-stack: C, C++, Java, GDB, Valgrind, Jira, Software Design, Sysbench
-      # - layout: left
-      #   title: Yugabyte
-      #   link: yugabyte.com
-      #   # link_text: boringcompany.com
-      #   sub_title: Software Developer Intern 
-      #   caption: January 2022 - August 2022
-      #   quote: > Integrated various producst with Yugabytedb
-      #   description: | 
-      #     ● Increased the performance of SELECT queries by 34% introducing load balancing and topology-aware features in YSQL C driver that utilizes the distributed nature of YugabyteDB.
-      #     ● Enhanced YugabyteDB 's security by integrating the HashiCorp vault with YugabyteDB
-      #         ○ Implemented Dynamic Secrets and a storage plugin for YugabyteDB to store and manage admin secrets.
-      #     ● Found 9 bugs while performing R&D for integration of Camunda and Supabase with YugabyteDB. 
-      #     Tech-stack: C, Java, Python
+      - layout: left
+        title: Yugabyte
+        link: yugabyte.com
+        # link_text: boringcompany.com
+        sub_title: Software Developer Intern 
+        caption: January 2022 - August 2022
+        quote: > 
+          Integrated various producst with Yugabytedb
+        description: | 
+          ● Increased the performance of SELECT queries by 34% introducing load balancing and topology-aware features in YSQL C driver that utilizes the distributed nature of YugabyteDB.
+          ● Enhanced YugabyteDB 's security by integrating the HashiCorp vault with YugabyteDB
+              ○ Implemented Dynamic Secrets and a storage plugin for YugabyteDB to store and manage admin secrets.
+          ● Found 9 bugs while performing R&D for integration of Camunda and Supabase with YugabyteDB. 
+          Tech-stack: C, Java, Python
 
-      # - layout: left
-      #   title: Samsung
-      #   link: samsung.com
-      #   # link_text: boringcompany.com
-      #   sub_title: Software Developer Intern  
-      #   caption: May 2021 - August 2021
-      #   quote: >
-      #   description: | 
-      #     ● Saved around 30% of debugging time on average by designing a tool for processing and analyzing the log data.
-      #   Tech-stack: Python
+      - layout: left
+        title: Samsung
+        link: samsung.com
+        # link_text: boringcompany.com
+        sub_title: Software Developer Intern  
+        caption: May 2021 - August 2021
+        quote: >
+          Worked on a CLI tool for debugging
+        description: | 
+          ● Saved around 30% of debugging time on average by designing a tool for processing and analyzing the log data.
+        Tech-stack: Python
       
 
   - title: Projects # Title for the section
